@@ -1,8 +1,7 @@
 # public/robots.txt
 
 # Tüm arama motoru botlarına izin ver
-User-agent: * # Tüm sayfaların taranmasına izin ver
-Allow: / 
+User-agent: * Allow: / 
 
-# Sitenizin haritasının (sitemap) yerini belirtin
-Sitemap: [SİZİN_SİTE_ADRESİNİZ]/sitemap.xml
+# Sitenizin haritasının (sitemap) tam ve canlı adresini belirtin
+Sitemap: https://onurabdulaji.netlify.app/sitemap.xml
