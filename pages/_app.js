@@ -22,6 +22,7 @@ export default function App({ Component, pageProps }) {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Onur Abdulaji - Software Engineer Portfolio" />
         <meta property="og:description" content="Web And Full Stack Development Portfolio" />
+        <meta name="google-site-verification" content="-BQCRbBMeroKzFUkXynQAEtXyXyXNIVfsrOGqlYsZxI" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Layout>
