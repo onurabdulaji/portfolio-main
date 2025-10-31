@@ -1,0 +1,8 @@
+# public/robots.txt
+
+# Tüm arama motoru botlarına izin ver
+User-agent: * # Tüm sayfaların taranmasına izin ver
+Allow: / 
+
+# Sitenizin haritasının (sitemap) yerini belirtin
+Sitemap: [SİZİN_SİTE_ADRESİNİZ]/sitemap.xml
